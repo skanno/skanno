@@ -1,19 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![skanno's GitHub stats](https://github-readme-stats.vercel.app/api?username=skanno&show_icons=true&theme=dark)
-<!--
-**skanno/skanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="left">
   <a href="http://twitter.com/skannonet">
     <img height="20" src="https://img.shields.io/twitter/follow/skannonet?label=Twitter&logo=twitter&style=flat" />
@@ -22,3 +6,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/skanno?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![skanno's GitHub stats](https://github-readme-stats.vercel.app/api?username=skanno&show_icons=true&theme=dark)
